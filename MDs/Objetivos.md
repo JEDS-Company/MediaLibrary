@@ -10,7 +10,7 @@
 
 ## Objetivos generales
 
-Esta es una lista de las cosas que pretendemos hacer con nuestro proyecto MediaLibrary.
+Con MediaLibrary hemos establecido una serie de objetivos generales que pretendemos que nuestro proyecto sea capaz de cumplir para el final de su desarrollo: 
 
 - Llevar un registro de las películas, libros y/o videojuegos que consumen los usuarios.
 - Puntuar el contenido de tu librería.
@@ -24,7 +24,7 @@ Esta es una lista de las cosas que pretendemos hacer con nuestro proyecto MediaL
 
 ## Objetivos específicos
 
-Esta es una de lista objetivos técnicos para nuestro proyecto.
+Para llevar a cabo los objetivos generales, hemos marcado estas otras pautas relacionadas con el desarrollo y diseño de la arquitectura de nuestro proyecto:
 
 - Crear una base de datos MariaDB para almacenar los datos de los usuarios y los medios de la aplicación.
 - Crear una API en Java Spring Boot que gestione las peticiones del cliente web y de la aplicación móvil, recupere la información de la base de datos o en su defecto consiga la información de las APIs externas y por último devuelva la información al cliente de origen.
