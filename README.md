@@ -6,3 +6,10 @@ MediaLibrary es un proyecto para que la gente pueda guardar y puntuar sus listas
 
 El proyecto consiste en una API que será utilizada por un cliente web y un cliente móvil. La API servirá para consumir datos externos de otras APIs, almacenar y gestionar la información de la base de datos y suministrar la información a los clientes.
 
+## Links
+
+Algunos links con más información respecto al proyecto:
+
+- [Planteamiento y justificación](/MDs/PlanteamientoProblema.md)  
+- [Objetivos](/MDs/Objetivos.md)  
+- [Resumen bilingüe](/MDs/ResumenBilingue.md)
