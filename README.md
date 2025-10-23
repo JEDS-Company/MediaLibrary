@@ -18,3 +18,7 @@ Algunos links con más información respecto al proyecto:
 - [Planteamiento y justificación](/MDs/fase1/Planteamiento.md)  
 - [Objetivos](/MDs/fase1/Objetivos.md)  
 - [Resumen bilingüe](/MDs/fase1/ResumenBilingue.md)
+
+#### Fase de Diseño ✍🏻
+
+- [Diagrama Entidad-Relación Extendido]()
