@@ -21,11 +21,8 @@ Los usuarios tambíen pueden desbloquear logros dependiendo del contenido que te
 
 De las películas queremos saber su nombre, creador, portada, género, duración, sinopsis y año de publicación.
 
-De los libros también deseamos conocer su nombre, creador, portada, sinopsis, género, isbn y año de publicación.
+De los libros también deseamos conocer su nombre, creador, portada, sinopsis, género, isbn, número de páginas, editorial y año de publicación.
 
 Para los videojuegos deseamos conocer su nombre, año de publicación, sinopsis, compañia o creador (la compañia cuenta como creador único), portada, género y las plataformas en las que está disponible.
 
-De las plataformas de los videojuegos queremos conocer su nombre.
-
-De los logros queremos almacenar el nombre y el contenido que se requiere para desbloquearlo.
-
+De las plataformas en las que estarán disponibles los videojuegos queremos conocer su nombre.
