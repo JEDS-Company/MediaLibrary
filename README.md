@@ -15,9 +15,9 @@ Algunos links con más información respecto al proyecto:
 
 #### Fase de Análisis 🔎
 
-- [Planteamiento y justificación](/MDs/fase1/Planteamiento.md)  
-- [Objetivos](/MDs/fase1/Objetivos.md)  
-- [Resumen bilingüe](/MDs/fase1/ResumenBilingue.md)
+- [Planteamiento y justificación](/mds/fase1/Planteamiento.md)  
+- [Objetivos](/mds/fase1/Objetivos.md)  
+- [Resumen bilingüe](/mds/fase1/ResumenBilingue.md)
 
 #### Fase de Diseño ✍🏻
 
