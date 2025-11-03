@@ -21,4 +21,5 @@ Algunos links con más información respecto al proyecto:
 
 #### Fase de Diseño ✍🏻
 
-- [Diagrama Entidad-Relación Extendido]()
+- [Inventario de contenidos](/mds/fase3/DiagramaEntidadRelacion.md)
+- [Diagrama Entidad-Relación Extendido](/mds/fase3/DiagramaEntidadRelacion.md)
