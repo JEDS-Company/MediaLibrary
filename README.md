@@ -15,11 +15,11 @@ Algunos links con más información respecto al proyecto:
 
 #### Fase de Análisis 🔎
 
-- [Planteamiento y justificación](/mds/fase1/Planteamiento.md)  
-- [Objetivos](/mds/fase1/Objetivos.md)  
+- [Planteamiento y justificación](/MDs/fase1/Planteamiento.md)  
+- [Objetivos](/MDs/fase1/Objetivos.md)  
 - [Resumen bilingüe](/mds/fase1/ResumenBilingue.md)
 
 #### Fase de Diseño ✍🏻
 
-- [Inventario de contenidos](/mds/fase3/DiagramaEntidadRelacion.md)
-- [Diagrama Entidad-Relación Extendido](/mds/fase3/DiagramaEntidadRelacion.md)
+- [Inventario de contenidos](/MDs/fase3/DiagramaEntidadRelacion.md)
+- [Diagrama Entidad-Relación Extendido](/MDs/fase3/DiagramaEntidadRelacion.md)
