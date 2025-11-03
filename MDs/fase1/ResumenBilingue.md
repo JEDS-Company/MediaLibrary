@@ -1,12 +1,5 @@
 # Resumen del proyecto
 
-**Participantes**:
-
-- Jonathan Villalba Moran
-- Diego Fernando Valencia
-- Sergio Llorente Gonzalez
-- Emilio García Muñoz
-
 ## Resumen 
 
 Analizando ideas para nuestro proyecto nos dimos cuenta de que los usuarios necesitan muchas aplicaciones y sitios web para realizar un seguimiento del contenido multimedia que consumen, lo cual resulta molesto. Debido a esto, hemos decidido crear MediaLibrary, una solución para centralizar todas estas plataformas en una sola.

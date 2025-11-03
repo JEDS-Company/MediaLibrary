@@ -1,13 +1,5 @@
 # Objetivos del proyecto
 
-**Participantes**: 
-
-- Jonathan Villalba Moran
-- Diego Fernando Valencia Correa
-- Sergio Llorente
-- Emilio García
-
-
 ## Objetivos generales
 
 Con MediaLibrary hemos establecido una serie de objetivos generales que pretendemos que nuestro proyecto sea capaz de cumplir para el final de su desarrollo: 

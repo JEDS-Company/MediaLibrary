@@ -1,13 +1,5 @@
 # Planteamiento del problema y justificación
 
-**Participantes**: 
-
-- Jonathan Villalba Moran
-- Diego Fernando Valencia Correa
-- Sergio Llorente
-- Emilio García
-
-
 ## Desarrollo
 
 Hemos visto que existen diversas aplicaciones y páginas web para crear tus propias listas de películas, series, videojuegos, animes, mangas, etc, donde puedes puntuarlas. Haciendo que necesites cambiar entre diversas plataformas para llevar el conteo de todas. 
