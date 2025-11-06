@@ -3,22 +3,22 @@
 
 **Casos de uso entre el Usuario y la Aplicación** 
 
-![alt text](/recursos/imagenes/casos_usuario_aplicacion.png)
+<img src="../../recursos/imagenes/casos_usuario_aplicacion.png" alt="casos de uso" width="300"/>
 
 <br>
 
 **Casos de uso del Usuario relacionados con acciones Sociales** 
 
-![alt text](/recursos/imagenes/casos_usuario_social.png)
+<img src="../../recursos/imagenes/casos_usuario_social.png" alt="casos de uso" width="300"/>
 
 <br>
 
 **Casos de uso entre el Usuario y la Librería** 
 
-![alt text](/recursos/imagenes/casos_usuario_libreria.png)
+<img src="../../recursos/imagenes/casos_usuario_libreria.png" alt="casos de uso" width="300"/>
 
 <br>
 
 **Casos de uso entre el Usuario y la Aplicación** 
 
-![alt text](/recursos/imagenes/casos_admin_aplicacion.png)
+<img src="../../recursos/imagenes/casos_admin_aplicacion.png" alt="casos de uso" width="300"/>
