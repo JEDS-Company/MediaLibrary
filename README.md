@@ -21,6 +21,8 @@ Algunos links con más información respecto al proyecto:
 
 #### Fase de Diseño ✍🏻
 
-- [Inventario de contenidos](/MDs/fase3/DiagramaEntidadRelacion.md)
+- [Inventario de Contenidos](/MDs/fase3/DiagramaEntidadRelacion.md)
 - [Diagrama Entidad-Relación Extendido](/MDs/fase3/DiagramaEntidadRelacion.md)
-- [Arbol de navegación](/MDs/fase3/ArbolNavegacion.md)
+- [Arbol de Navegación](/MDs/fase3/ArbolNavegacion.md)
+- [Diagrama de Casos de Uso](/MDs/fase3/CasosDeUso.md)
+- [Diagrama de Clases](/MDs/fase3/DiagramaClases.md)
