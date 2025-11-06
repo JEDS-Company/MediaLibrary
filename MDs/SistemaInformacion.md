@@ -15,7 +15,9 @@ Además, queremos almacenar los usuarios a los que sigue cada persona.
 
 Los usuarios podrán añadir películas, libros y videojuegos a su librería personal. De cada contenido en su librería deseamos almacenar la calificación de dicho contenido y el progreso del usuario.
 
-Además, los usuarios podrán almacenar en otra lista los contenidos que quieren ver en un futuro. 
+Además, los usuarios podrán almacenar en otra lista (whishlist) los contenidos que quieren ver en un futuro.
+
+Un contenido que esté en la libería del usuario no puede estár en la wishlist, por lo que al añadir un contenido a su librería se quitará automáticamente de la wishlist en caso de que hubiese sido añadido a esa lista anteriormente. Tampoco dejará añadir a la wishlist un contenido que ya esté en la librería personal.
 
 Los usuarios tambíen pueden desbloquear logros dependiendo del contenido que tengan en sus librerías. De los logros queremos almacenar su nombre y el contenido que lo conforma.
 
