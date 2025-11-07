@@ -6,18 +6,31 @@ MediaLibrary es un proyecto para que la gente pueda guardar y puntuar sus listas
 
 El proyecto consiste en una API que será utilizada por un cliente web y un cliente móvil. La API servirá para consumir datos externos de otras APIs, almacenar y gestionar la información de la base de datos y suministrar la información a los clientes.
 
+**Integrantes**
+
+ - [Diego Fernando Valencia Correa](https://github.com/DocD1306)
+ - [Jonathan Villalba Moran](https://github.com/JonathanWick21)
+ - [Emilio García Muñoz](https://github.com/DocD1306)
+ - [Sergio Llorente González](https://github.com/CaulShiverss)
+
 <br>
+
 
 ## Links
 
 Algunos links con más información respecto al proyecto:
 
 
-#### Fase de Análisis 🔎
+#### Fase de Planteamiento ❓
 
 - [Planteamiento y justificación](/MDs/fase1/Planteamiento.md)  
 - [Objetivos](/MDs/fase1/Objetivos.md)  
 - [Resumen bilingüe](/mds/fase1/ResumenBilingue.md)
+
+#### Fase de Análisis 🔍
+
+- [Estudio del Arte](/MDs/fase2/EstudioArte.md)  
+- [Requisitos funcionales y no funcionales](/MDs/fase2/Requisitos.md)  
 
 #### Fase de Diseño ✍🏻
 
