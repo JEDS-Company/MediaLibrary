@@ -35,7 +35,9 @@ Algunos links con más información respecto al proyecto:
 #### Fase de Diseño ✍🏻
 
 - [Inventario de Contenidos](/MDs/fase3/DiagramaEntidadRelacion.md)
-- [Diagrama Entidad-Relación Extendido](/MDs/fase3/DiagramaEntidadRelacion.md)
-- [Arbol de Navegación](/MDs/fase3/ArbolNavegacion.md)
 - [Diagrama de Casos de Uso](/MDs/fase3/CasosDeUso.md)
+- [Diagrama Entidad-Relación Extendido](/MDs/fase3/DiagramaEntidadRelacion.md)
 - [Diagrama de Clases](/MDs/fase3/DiagramaClases.md)
+- [Arbol de Navegación](/MDs/fase3/ArbolNavegacion.md)
+- [WireFrame y Mokup](/MDs/fase3/WireframeMockup.md)
+- [Design System y Justificación](/MDs/fase3/DesignSystem.md)
