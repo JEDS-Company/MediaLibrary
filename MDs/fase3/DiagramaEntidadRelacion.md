@@ -1,5 +1,6 @@
 # Modelo Entidad Relación Extendido
 
-![Modelo Entidad Relacion](/recursos/imagenes/Modelo%20Entidad-Relacion.png)
+![Modelo Entidad Relacion](/recursos/imagenes/EER-MediaLibrary.png)
 
-Aquí se produce una pérdida expresiva. No se puede representar correctamente que un contenido multimedia no puede estar en la Wishlist y en la Library al mismo tiempo.
+Este es el Modelo Entidad Relación Extendido de la base de datos que vamos a gestionar.
+
