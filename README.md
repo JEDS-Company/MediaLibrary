@@ -1,5 +1,7 @@
 # MediaLibrary
 
+<img src="/recursos/imagenes/LogoColor.png" alt="MediaLibrary Logo" width="200"/>
+
 ## Sobre el proyecto
 
 MediaLibrary es un proyecto para que la gente pueda guardar y puntuar su lista de películas, series, animes, libros, comics y videojuegos que han vistoy, leído y/o jugado y compartirla con sus amigos.
@@ -16,9 +18,7 @@ El proyecto consiste en una API que será utilizada por un cliente web y un clie
 <br>
 
 
-## Links
-
-Algunos links con más información respecto al proyecto:
+## Enlaces de Interés
 
 ### Repositorios principales del Proyecto
 
@@ -27,18 +27,19 @@ Algunos links con más información respecto al proyecto:
 - [API](https://github.com/JEDS-Company/API_MediaLibrary.git)
 
 
-#### Fase de Planteamiento ❓
+#### Planteamiento ❓
 
 - [Planteamiento y justificación](/MDs/fase1/Planteamiento.md)  
 - [Objetivos](/MDs/fase1/Objetivos.md)  
 - [Resumen bilingüe](/mds/fase1/ResumenBilingue.md)
+- [Sistema de información](mds/SistemaInformacion.md)
 
-#### Fase de Análisis 🔍
+#### Análisis 🔍
 
-- [Estudio del Arte](/MDs/fase2/EstudioArte.md)  
+- [Estudio de Mercado](/MDs/fase2/EstudioArte.md)  
 - [Requisitos funcionales y no funcionales](/MDs/fase2/Requisitos.md)  
 
-#### Fase de Diseño ✍🏻
+#### Diseño ✍🏻
 
 - [Inventario de Contenidos](/MDs/fase3/DiagramaEntidadRelacion.md)
 - [Diagrama de Casos de Uso](/MDs/fase3/CasosDeUso.md)
@@ -46,6 +47,5 @@ Algunos links con más información respecto al proyecto:
 - [Arbol de Navegación](/MDs/fase3/ArbolNavegacion.md)
 - [WireFrame y Mokup](/MDs/fase3/WireframeMockup.md)
 - [Design System y Justificación](/MDs/fase3/DesignSystem.md)
-
-#### Fase de Implementación 🛠️
+- [Diccionario de Datos](/MDs/fase3/DiccionarioDatos.md)
 
