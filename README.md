@@ -31,8 +31,8 @@ El proyecto consiste en una API que será utilizada por un cliente web y un clie
 
 - [Planteamiento y justificación](/MDs/fase1/Planteamiento.md)  
 - [Objetivos](/MDs/fase1/Objetivos.md)  
-- [Resumen bilingüe](/mds/fase1/ResumenBilingue.md)
-- [Sistema de información](mds/SistemaInformacion.md)
+- [Resumen bilingüe](/MDs/fase1/ResumenBilingue.md)
+- [Sistema de información](/MDs/SistemaInformacion.md)
 
 #### Análisis 🔍
 
