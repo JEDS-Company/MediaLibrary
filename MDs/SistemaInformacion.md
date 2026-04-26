@@ -9,7 +9,7 @@ Participantes:
 
 Existen diversas aplicaciones en las que los usuarios pueden llevar un seguimiento de los contenidos que ven o leen y pueden ponerles una nota. Además pueden ver a otros usuarios y el contenido que estos consumen. Sin embargo, necesitar tener diversas cuentas en diferentes aplicaciones o páginas web para poder realizar un seguimiento de tus aficiones. Esto hace que llevar un registro de ellas sea tedioso o dificil. Debido a este problema, hemos decidido aportar nuestra propia solución: MediaLibrary.
 
-MediaLibrary es una aplicación web y móvil en la que la gente puede crear su propia lista de películas, series, libros, mangas, comics y videojuegos que hayan visto, leído y/o jugado. En dicha lista podrás ponerle una nota del 0 al 10 a los contenidos que añadas. Además podrás seguir a otros usuarios y ver sus listas.
+MediaLibrary es una aplicación web y móvil en la que la gente puede crear su propia lista de películas, libros y videojuegos que hayan visto, leído y/o jugado. En dicha lista podrás ponerle una nota del 0 al 10 a los contenidos que añadas. Además podrás seguir a otros usuarios y ver sus listas.
 
 De cada usuario se desea almacenar su nombre de usuario (que es único para cada persona), su apodo en la aplicación (este si que podrá ser repetido), su correo electrónico, contraseña y foto de perfil.
 
@@ -27,15 +27,7 @@ Sobre los contenidos de nuestra aplicación:
 
 De las películas queremos saber su nombre, creador, portada, género, duración, sinopsis y año de publicación.
 
-De las series queremos almacenar su nombre, creador, portada, género, temporadas, capítulos, sinopsis y año de publicación.
-
-De los animes queremos saber su nombre, casa de animación, portada, género, temporadas, capítulos, sinopsis y año de publicación.
-
 De los libros deseamos conocer su nombre, escritor, portada, sinopsis, género, isbn, número de páginas, editorial y año de publicación.
-
-De los mangas queremos conocer su nombre, creador, portada, sinopsis, género, número de capítulos y año de publicación.
-
-De los comics deseamos saber su nombre, creador, portada, sinopsis, género, editorial y año de publicación.
 
 De los videojuegos deseamos conocer su nombre, año de publicación, sinopsis, compañia/creador, portada, género y plataformas en las que está disponible.
 
