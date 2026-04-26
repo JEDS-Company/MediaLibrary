@@ -4,9 +4,9 @@
 
 ## Sobre el proyecto
 
-MediaLibrary es un proyecto para que la gente pueda guardar y puntuar su lista de películas, series, animes, libros, comics y videojuegos que han vistoy, leído y/o jugado y compartirla con sus amigos.
+MediaLibrary es un proyecto para que la gente pueda guardar y puntuar su lista personal de películas, libros, y videojuegos y compartirlos con sus amigos.
 
-El proyecto consiste en una API que será utilizada por un cliente web y un cliente móvil. La API servirá para consumir datos externos de otras APIs, almacenar y gestionar la información de la base de datos y suministrar la información a los clientes.
+El proyecto consiste de una API creada en Spring Boot que será utilizada por un cliente web hecho en React y un cliente móvil hecho en Jetpack Compose. La API servirá para consumir datos externos de otras APIs, aglutinar dichos resultados, almacenarlos en nuestra base de datos a modo de caché y suministrar la información a los clientes.
 
 **Integrantes**
 
