@@ -12,14 +12,13 @@ Con MediaLibrary hemos establecido una serie de objetivos generales que pretende
 - Desbloquear logros dependiendo de los contenidos que los usuarios tengan en sus librerías.
 - Añadir el progreso del libro, la película o videojuego que el usuario está disfrutando.
 - Poder guardar el contenido que quieras consumir en un futuro.
-- Crear una representación visual de la librería de los usuarios a medida que añaden contenido a esta.
 
 ## Objetivos específicos
 
 Para llevar a cabo los objetivos generales, hemos marcado estas otras pautas relacionadas con el desarrollo y diseño de la arquitectura de nuestro proyecto:
 
-- Crear una base de datos MariaDB para almacenar los datos de los usuarios y los medios de la aplicación.
+- Crear una base de datos PostgreSQL para almacenar los datos de los usuarios y las medias de la aplicación.
 - Crear una API en Java Spring Boot que gestione las peticiones del cliente web y de la aplicación móvil, recupere la información de la base de datos o en su defecto consiga la información de las APIs externas y por último devuelva la información al cliente de origen.
 - Crear un cliente web en React que haga peticiones a la API de MediaLibrary.
 - Crear una aplicación móvil en Kotlin que también consuma la API de MediaLibrary.
-- Hostear la API contenerizada con Docker y el cliente web en AWS.
+- Hostear la API y el cliente web en un entorno cloud.

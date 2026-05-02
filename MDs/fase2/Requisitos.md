@@ -49,16 +49,9 @@
 
 ---
 
-#### Ver las actividades de tus amigos
-
-**Prioridad:** Baja
-**Descripción:** Habrá una sección en la que los usuarios podrán ver los últimos contenidos que han consumido otros usuarios a los que siguen.
-
----
-
 #### Desbloquear logros
 
-**Prioridad:** Media
+**Prioridad:** Baja
 **Descripción:** Los usuarios desbloquearán logros dependiendo del contenido de sus librerías.
 
 ---
@@ -72,7 +65,7 @@
 
 #### Descubrir contenido
 
-**Prioridad:** Baja
+**Prioridad:** Media
 **Descripción:** El usuario podrá usar una función para que la aplicación le recomiende contenido.
 
 ---
@@ -81,13 +74,6 @@
 
 **Prioridad:** Media
 **Descripción:** El usuario podrá guardar el contenido en una carpeta para verlo en un futuro.
-
----
-
-#### Ver una representación visual del contenido de tu librería
-
-**Prioridad:** Baja
-**Descripción:** En la aplicación, el usuario podrá observar una representación gráfica basada en el contenido de su librería.
 
 ---
 
@@ -116,7 +102,7 @@
 
 #### Rendimiento
 
-**Prioridad:** Media
+**Prioridad:** Baja
 **Descripción:** Nuestro sistema ha de tener un rendimiento óptimo.
 
 ---
